@@ -3,7 +3,7 @@
 SQL analysis of the top 100 Instagram accounts worldwide, exploring how follower count, category and country relate to audience engagement. A Power BI dashboard will present the results.
 
 ## Dashboard
-
+![Dashboard](dashboard.png)
 ## Dataset
 
 100 accounts with followers, average likes, 60-day engagement rate, country and category. The data had no missing values or duplicates.
