@@ -22,21 +22,17 @@ I never edited the raw table. Instead I created a view called `ig_clean` on top 
 - Added two calculated columns:
   - `calc_eng_rate`: avg_likes / followers x 100
   - `recent_like_change_pct`: the percentage change between older and recent average likes
-
-## Questions answered
-
- # Questions asked
- 1  Who are the top 10 accounts by followers?
- 2  Which accounts have an engagement rate above 5%?
- 3  Which Indian accounts have over 50M followers?
- 4  How many accounts does each country have?
- 5  What is the average engagement per category?
- 6  Which countries have the most total followers?
- 7  Which categories with 3 or more accounts engage best?
- 8  Do bigger accounts have lower engagement?
- 9 Who is the top account in each category? 
-10  Which accounts beat their own category's average? 
-
+#Questions asked
+| 1 | Who are the top 10 accounts by followers? 
+| 2 | Which accounts have an engagement rate above 5%? 
+| 3 | Which Indian accounts have over 50M followers? 
+| 4 | How many accounts does each country have? 
+| 5 | What is the average engagement per category? 
+| 6 | Which countries have the most total followers? 
+| 7 | Which categories with 3 or more accounts engage best? 
+| 8 | Do bigger accounts have lower engagement? 
+| 9 | Who is the top account in each category? 
+| 10 | Which accounts beat their own category's average? 
 ## Key findings
 
 - **The US dominates.** 47 of the 100 accounts are American, and the US holds about 57% of all followers in the list. India is second with 13 accounts, then the UK with 9 and South Korea with 6.
